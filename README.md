@@ -1,6 +1,6 @@
 # 14_10_home_work
 
-# Поиск слов по первым введенным символам
+# Dictionary search by the first characters entered
 
 #In the dictionary the following words: "he", "hell","help","hellbent".
 
